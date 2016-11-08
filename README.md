@@ -1,2 +1,2 @@
 # hello-world
-hello world learning
+I hope I am good at Github.
